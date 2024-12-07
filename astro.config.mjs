@@ -6,6 +6,6 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://nosferatu-concorde.github.io',
-	base: '/nosferatu-concorde.github.io',
+	base: '/nosferatu-concorde',
 	integrations: [mdx(), sitemap()],
 });
