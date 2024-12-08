@@ -2,7 +2,7 @@
 title: 'A Learning Roadmap'
 description: 'The Game Dev Roadmap'
 pubDate: 'Dec 08 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/hirtetty_piru.jpg'
 ---
 The things that have strike through are done.
 
